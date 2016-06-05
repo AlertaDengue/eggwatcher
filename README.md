@@ -1,2 +1,5 @@
 # eggwatcher
-Too be described
+
+## Getting started
+
+Make sure influxdb is installed. 
